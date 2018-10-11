@@ -1,3 +1,6 @@
+// Bomb method required in the last step is not included in this solution.
+console.log('Bomb method required in the last step is not included in this solution.');
+
 const getUserChoice = userInput => {
   userInput = userInput.toLowerCase();
   switch (userInput) {
